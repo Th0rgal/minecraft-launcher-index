@@ -19,6 +19,7 @@ Launchers designed for flexibility and customization. They support adding mods, 
 | [SKlauncher](https://skmedix.pl/) | SKlauncher is a launcher that offers seamless integration of Fabric, Forge, NeoForge and Quilt modloaders, enabling you to effortlessly customize your Minecraft experience. | Closed-Source |
 | [X Minecraft Launcher](https://xmcl.app) | An Open Source Minecraft Launcher with Modern UX. Provide a Disk Efficient way to manage all your Mods! | TypeScript / Vue (Electron) |
 | [OLauncher](https://github.com/olauncher/olauncher) | A modified version of the old Minecraft Launcher supporting Microsoft authentication and more. | Closed-Source / Shell [^1] |
+| [Shard Launcher](https://shard.thomas.md) | Open-source Minecraft launcher with declarative profiles, content-addressed storage, and Modrinth/CurseForge integration. | Rust / TypeScript (Tauri) |
 
 ## PVP/Performance-focused Launchers
 Launchers tailored for competitive play and performance. They provide optimized Minecraft clients with built-in performance tweaks, cosmetics, and PvP enhancements. Typically do not support adding custom mods.
